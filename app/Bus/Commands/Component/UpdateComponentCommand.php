@@ -139,6 +139,5 @@ final class UpdateComponentCommand
         $this->meta = $meta;
         $this->tags = $tags;
         $this->silent = $silent;
-        $this->tags = $tags;
     }
 }
